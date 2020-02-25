@@ -1,0 +1,87 @@
+regionname,year,gdpcap,time_dummy,treatment_dummy
+Cataluna,1955,3.54662963,0,0
+Cataluna,1956,3.69044557,0,0
+Cataluna,1957,3.826834998,0,0
+Cataluna,1958,3.875678378,0,0
+Cataluna,1959,3.921736734,0,0
+Cataluna,1960,4.2417882,0,0
+Cataluna,1961,4.575335479,0,0
+Cataluna,1962,4.838046412,0,0
+Cataluna,1963,5.081334096,0,0
+Cataluna,1964,5.158097878,0,0
+Cataluna,1965,5.223650525,0,0
+Cataluna,1966,5.332476505,0,0
+Cataluna,1967,5.429448921,0,0
+Cataluna,1968,5.674378854,0,0
+Cataluna,1969,5.915523944,0,0
+Cataluna,1970,6.066837872,0,0
+Cataluna,1971,6.227649208,0,0
+Cataluna,1972,6.539060129,0,0
+Cataluna,1973,6.837975056,0,0
+Cataluna,1974,6.987360824,0,0
+Cataluna,1975,7.124893027,0,0
+Cataluna,1976,7.135389819,1,0
+Cataluna,1977,7.142959067,1,0
+Cataluna,1978,7.019351544,1,0
+Cataluna,1979,7.01099691,1,0
+Cataluna,1980,7.078834671,1,0
+Cataluna,1981,7.18223356,1,0
+Cataluna,1982,7.287203656,1,0
+Cataluna,1983,7.397886318,1,0
+Cataluna,1984,7.484290028,1,0
+Cataluna,1985,7.569979831,1,0
+Cataluna,1986,8.077691739,1,0
+Cataluna,1987,8.583975833,1,0
+Cataluna,1988,9.057412342,1,0
+Cataluna,1989,9.525849757,1,0
+Cataluna,1990,9.78506176,1,0
+Cataluna,1991,10.0506998,1,0
+Cataluna,1992,9.837903107,1,0
+Cataluna,1993,9.625107287,1,0
+Cataluna,1994,10.00642708,1,0
+Cataluna,1995,10.33990288,1,0
+Cataluna,1996,10.57626375,1,0
+Cataluna,1997,11.04541594,1,0
+Basque Country (Pais Vasco),1955,3.85318463,0,1
+Basque Country (Pais Vasco),1956,3.945658296,0,1
+Basque Country (Pais Vasco),1957,4.033561735,0,1
+Basque Country (Pais Vasco),1958,4.023421897,0,1
+Basque Country (Pais Vasco),1959,4.013781968,0,1
+Basque Country (Pais Vasco),1960,4.285918396,0,1
+Basque Country (Pais Vasco),1961,4.574336096,0,1
+Basque Country (Pais Vasco),1962,4.898957354,0,1
+Basque Country (Pais Vasco),1963,5.197014982,0,1
+Basque Country (Pais Vasco),1964,5.338902979,0,1
+Basque Country (Pais Vasco),1965,5.465153005,0,1
+Basque Country (Pais Vasco),1966,5.545915627,0,1
+Basque Country (Pais Vasco),1967,5.614895727,0,1
+Basque Country (Pais Vasco),1968,5.852184933,0,1
+Basque Country (Pais Vasco),1969,6.081405417,0,1
+Basque Country (Pais Vasco),1970,6.170094241,0,1
+Basque Country (Pais Vasco),1971,6.283633405,0,1
+Basque Country (Pais Vasco),1972,6.555555399,0,1
+Basque Country (Pais Vasco),1973,6.810768561,0,1
+Basque Country (Pais Vasco),1974,7.105184303,0,1
+Basque Country (Pais Vasco),1975,7.377891682,0,1
+Basque Country (Pais Vasco),1976,7.232933622,1,1
+Basque Country (Pais Vasco),1977,7.089831372,1,1
+Basque Country (Pais Vasco),1978,6.786703607,1,1
+Basque Country (Pais Vasco),1979,6.639817387,1,1
+Basque Country (Pais Vasco),1980,6.562839171,1,1
+Basque Country (Pais Vasco),1981,6.500785455,1,1
+Basque Country (Pais Vasco),1982,6.545058607,1,1
+Basque Country (Pais Vasco),1983,6.595329801,1,1
+Basque Country (Pais Vasco),1984,6.76149675,1,1
+Basque Country (Pais Vasco),1985,6.937160672,1,1
+Basque Country (Pais Vasco),1986,7.332191151,1,1
+Basque Country (Pais Vasco),1987,7.742788124,1,1
+Basque Country (Pais Vasco),1988,8.120536641,1,1
+Basque Country (Pais Vasco),1989,8.509711162,1,1
+Basque Country (Pais Vasco),1990,8.776777889,1,1
+Basque Country (Pais Vasco),1991,9.025278666,1,1
+Basque Country (Pais Vasco),1992,8.873892825,1,1
+Basque Country (Pais Vasco),1993,8.718223539,1,1
+Basque Country (Pais Vasco),1994,9.018137849,1,1
+Basque Country (Pais Vasco),1995,9.440873862,1,1
+Basque Country (Pais Vasco),1996,9.686518138,1,1
+Basque Country (Pais Vasco),1997,10.17066587,1,1
